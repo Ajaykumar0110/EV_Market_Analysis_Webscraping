@@ -18,6 +18,10 @@ The dataset contains **1,146 EV records**, stored *exactly as scraped (raw + unc
 The notebook demonstrates cleaning, transformation, and visualization processes.
 
 ---
+## PowerBI Dashboard
+<img src="https://github.com/Ajaykumar0110/EV_Market_Analysis_Webscraping/blob/main/Images/Electric_Vehicles_Analysis.jpg">
+
+---
 
 ## 🔍 Key Outcomes
 
@@ -36,4 +40,3 @@ The notebook demonstrates cleaning, transformation, and visualization processes.
 | Visualization     | Plotly · Matplotlib · Seaborn |
 | Notebook         | Jupyter Notebook |
 
-> 🔜 **Future enhancement:** Interactive Power BI dashboard for business storytelling and model comparison.
